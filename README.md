@@ -1,11 +1,14 @@
-# Hi there 👋, I'm Shiva
+# Hi there 👋, I'm Sivasridharan A
 
 ## 🔹 About Me
 
 
-👋 Hi! I’m **Sivasridharan A**, a passionate **Front-End Web Developer** who loves bringing ideas to life through clean, responsive, and user-friendly websites.  
+👋 Hi! I’m **Sivasridharan A**, a passionate **Full Stack Web Developer** with strong knowledge of **Core Java**, focused on building clean, responsive, and user-friendly web applications.
 
-💻 I specialize in **HTML, CSS, and JavaScript**, and I enjoy working with frameworks and tools like **React, Tailwind CSS, Bootstrap, and Netlify**. My focus is always on creating **seamless user experiences** and writing **maintainable, scalable code**.  
+💻 I specialize in **HTML, CSS, JavaScript, and Bootstrap** for front-end development, and I use **Core Java** for backend logic, application flow, and object-oriented design. I enjoy developing scalable applications with a strong emphasis on **performance, maintainability, and seamless user experience**.
+
+🚀 I’m comfortable working across the full development lifecycle—from **design and development to deployment**—and I consistently write **clean, efficient, and scalable code**.
+ 
 
 🚀 Over time, I’ve built projects ranging from simple interactive games (like **Rock-Paper-Scissors**) to **banking-style web apps** with deposit/withdraw features. Each project helps me sharpen my problem-solving skills and deepen my knowledge of real-world development practices.  
 
@@ -19,9 +22,9 @@
 ## 💻 Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Technologies" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,next,java" alt="Frameworks & Backend" />
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Frameworks & Backend" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
   <br>
@@ -58,7 +61,7 @@
 
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sivasridharan-a-94b413285/)  
 - 📧 **Email:** (sivasrid71@gmail.com)
-- 🌐 **Website/Portfolio:** [https://your-portfolio.netlify.app](https://portfolio-main-sepia-six.vercel.app/)  
+- 🌐 **Website/Portfolio:** [https://portfolio-main-sepia-six.vercel.app/](https://portfolio-main-sepia-six.vercel.app/)  
 
 ---
 
