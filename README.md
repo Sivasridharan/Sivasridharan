@@ -56,7 +56,7 @@
 
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sivasridharan-a-94b413285/)  
 - 📧 **Email:** (sivasrid71@gmail.com)
-- 🌐 **Website/Portfolio:** [https://portfolio-main-sepia-six.vercel.app/](https://portfolio-main-sepia-six.vercel.app/)  
+- 🌐 **Website/Portfolio:** [https://sivasridharan-portfolio.netlify.app/](https://sivasridharan-portfolio.netlify.app/)  
 
 ---
 
