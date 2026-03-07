@@ -37,7 +37,7 @@
 
 | Project | Description | Live Demo | GitHub |
 |---------|-------------|-----------|--------|
-| 🎨 Portfolio Website | My personal portfolio with projects and contact info | [Live](https://sivasridharan-portfolio.netlify.app/) | [Code]() |
+| 🎨 Portfolio Website | My personal portfolio with projects and contact info | [Live](https://sivasridharan-portfolio.netlify.app/) | [Code] |
 | ✂️ Rock Paper Scissors Game | Interactive game using JavaScript | [Live](rps-game-rho.vercel.app) | [Code](https://github.com/Sivasridharan/RPS_Game.git) |
 | 🏦 Banking App | HTML/CSS/JS app with check balance, deposit, and withdraw | [Live](https://bank-project-flow.netlify.app/) | [Code](https://github.com/Sivasridharan/Bank_Project.git) |
 
